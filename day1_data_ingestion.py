@@ -6,8 +6,6 @@ A beginner-friendly demonstration of:
 - Streaming Ingestion (real-time processing)
 - ETL Pipeline (with quality checks and transformations)
 
-Author: Christina Chen
-Learning Resource: https://github.com/cloudchristina/MLE
 """
 
 import pandas as pd

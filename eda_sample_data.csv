@@ -1,0 +1,501 @@
+order_id,customer_id,product,category,quantity,unit_price,total_amount,country,payment_method,customer_age,rating,order_date,is_weekend,month,day_of_week
+ORD00000,CUST0150,Headphones,Electronics,3,287.68,863.04,Germany,PayPal,41.0,3.0,2025-05-18 22:56:16.180336,True,5,Sunday
+ORD00001,CUST0089,Headphones,Electronics,1,284.64,284.64,US,Debit Card,39.0,,2025-07-19 22:56:16.180336,True,7,Saturday
+ORD00002,CUST0055,Tablet,Electronics,1,539.92,539.92,Australia,Bank Transfer,64.0,4.0,2025-04-21 22:56:16.180336,False,4,Monday
+ORD00003,CUST0009,Laptop,Electronics,2,855.74,1711.48,UK,Credit Card,,2.0,2025-03-31 22:56:16.180336,False,3,Monday
+ORD00004,CUST0050,Phone,Electronics,2,947.39,1894.77,Australia,PayPal,,4.0,2025-07-06 22:56:16.180336,True,7,Sunday
+ORD00005,CUST0014,Camera,Electronics,2,1020.07,2040.14,France,Debit Card,61.0,4.0,2025-04-24 22:56:16.180336,False,4,Thursday
+ORD00006,CUST0188,Headphones,Electronics,2,61.31,122.61,Australia,Credit Card,41.0,4.0,2025-09-18 22:56:16.180336,False,9,Thursday
+ORD00007,CUST0081,Laptop,Electronics,2,1155.53,2311.06,Canada,Debit Card,61.0,3.0,2024-10-24 22:56:16.180336,False,10,Thursday
+ORD00008,CUST0035,Laptop,Electronics,6,1527.15,9162.91,US,Debit Card,52.0,3.0,2024-12-16 22:56:16.180336,False,12,Monday
+ORD00009,CUST0179,Watch,Electronics,4,488.68,1954.74,US,Bank Transfer,32.0,4.0,2025-07-25 22:56:16.180336,False,7,Friday
+ORD00010,CUST0187,Watch,Electronics,3,303.43,910.28,Canada,PayPal,30.0,,2025-04-04 22:56:16.180336,False,4,Friday
+ORD00011,CUST0129,Headphones,Electronics,5,282.42,1412.12,US,Debit Card,45.0,1.0,2025-07-28 22:56:16.180336,False,7,Monday
+ORD00012,CUST0051,Camera,Electronics,2,500.52,1001.04,UK,Bank Transfer,26.0,1.0,2025-05-01 22:56:16.180336,False,5,Thursday
+ORD00013,CUST0101,Tablet,Electronics,3,493.92,1481.77,US,Bank Transfer,56.0,1.0,2024-12-06 22:56:16.180336,False,12,Friday
+ORD00014,CUST0172,Laptop,Electronics,3,1120.14,3360.41,UK,Bank Transfer,36.0,5.0,2025-05-27 22:56:16.180336,False,5,Tuesday
+ORD00015,CUST0144,Camera,Electronics,3,742.06,2226.17,US,Credit Card,22.0,3.0,2025-06-27 22:56:16.180336,False,6,Friday
+ORD00016,CUST0161,Headphones,Electronics,4,177.05,708.2,UK,Bank Transfer,36.0,4.0,2025-09-26 22:56:16.180336,False,9,Friday
+ORD00017,CUST0060,Laptop,Electronics,3,1610.83,4832.48,US,PayPal,33.0,1.0,2025-08-09 22:56:16.180336,True,8,Saturday
+ORD00018,CUST0152,Laptop,Electronics,5,911.72,4558.62,Australia,Debit Card,37.0,1.0,2025-08-15 22:56:16.180336,False,8,Friday
+ORD00019,CUST0194,Laptop,Electronics,3,993.95,2981.86,France,Debit Card,35.0,2.0,2025-01-22 22:56:16.180336,False,1,Wednesday
+ORD00020,CUST0115,Watch,Electronics,3,189.71,569.12,France,Debit Card,50.0,3.0,2025-02-27 22:56:16.180336,False,2,Thursday
+ORD00021,CUST0048,Camera,Electronics,6,743.99,4463.94,Canada,Bank Transfer,50.0,5.0,2025-07-26 22:56:16.180336,True,7,Saturday
+ORD00022,CUST0124,Tablet,Electronics,1,761.13,761.13,US,Credit Card,46.0,3.0,2025-04-05 22:56:16.180336,True,4,Saturday
+ORD00023,CUST0067,Watch,Electronics,5,271.27,1356.37,France,Bank Transfer,35.0,2.0,2025-03-25 22:56:16.180336,False,3,Tuesday
+ORD00024,CUST0170,Phone,Electronics,3,892.01,2676.02,UK,Debit Card,26.0,5.0,2025-07-15 22:56:16.180336,False,7,Tuesday
+ORD00025,CUST0098,Phone,Electronics,5,1093.66,5468.29,UK,Bank Transfer,40.0,,2025-03-06 22:56:16.180336,False,3,Thursday
+ORD00026,CUST0070,Camera,Electronics,3,828.15,2484.46,France,Debit Card,,,2024-12-12 22:56:16.180336,False,12,Thursday
+ORD00027,CUST0055,Headphones,Electronics,4,131.66,526.65,Australia,Bank Transfer,69.0,3.0,2025-07-04 22:56:16.180336,False,7,Friday
+ORD00028,CUST0117,Watch,Electronics,2,487.81,975.63,France,Debit Card,45.0,2.0,2025-02-12 22:56:16.180336,False,2,Wednesday
+ORD00029,CUST0117,Laptop,Electronics,1,1626.2,1626.2,US,Bank Transfer,51.0,1.0,2025-02-14 22:56:16.180336,False,2,Friday
+ORD00030,CUST0069,Watch,Electronics,4,395.16,1580.64,US,PayPal,39.0,,2025-03-08 22:56:16.180336,True,3,Saturday
+ORD00031,CUST0023,Camera,Electronics,2,1479.51,2959.02,UK,PayPal,50.0,5.0,2025-09-21 22:56:16.180336,True,9,Sunday
+ORD00032,CUST0069,Camera,Electronics,1,1135.09,1135.09,Germany,Bank Transfer,,1.0,2025-05-26 22:56:16.180336,False,5,Monday
+ORD00033,CUST0067,Phone,Electronics,4,421.21,1684.84,US,Credit Card,68.0,4.0,2024-11-17 22:56:16.180336,True,11,Sunday
+ORD00034,CUST0035,Phone,Electronics,2,565.35,1130.69,US,PayPal,,,2025-08-13 22:56:16.180336,False,8,Wednesday
+ORD00035,CUST0075,Watch,Electronics,1,437.95,437.95,Germany,Bank Transfer,21.0,2.0,2025-02-07 22:56:16.180336,False,2,Friday
+ORD00036,CUST0096,Headphones,Electronics,4,154.49,617.95,France,Bank Transfer,65.0,1.0,2025-05-30 22:56:16.180336,False,5,Friday
+ORD00037,CUST0187,Watch,Electronics,3,195.44,586.32,Canada,Credit Card,37.0,5.0,2025-07-28 22:56:16.180336,False,7,Monday
+ORD00038,CUST0069,Headphones,Electronics,2,52.71,105.42,Canada,Bank Transfer,69.0,5.0,2025-07-26 22:56:16.180336,True,7,Saturday
+ORD00039,CUST0133,Laptop,Electronics,4,1464.44,5857.77,Canada,Debit Card,56.0,2.0,2025-04-14 22:56:16.180336,False,4,Monday
+ORD00040,CUST0168,Watch,Electronics,1,240.37,240.37,UK,Credit Card,61.0,5.0,2024-12-30 22:56:16.180336,False,12,Monday
+ORD00041,CUST0145,Phone,Electronics,2,1113.52,2227.04,US,Credit Card,62.0,4.0,2025-09-19 22:56:16.180336,False,9,Friday
+ORD00042,CUST0173,Headphones,Electronics,3,137.55,412.66,Germany,PayPal,43.0,3.0,2025-03-31 22:56:16.180336,False,3,Monday
+ORD00043,CUST0134,Headphones,Electronics,6,192.87,1157.21,UK,Bank Transfer,42.0,5.0,2025-04-24 22:56:16.180336,False,4,Thursday
+ORD00044,CUST0164,Watch,Electronics,1,487.95,487.95,Canada,Debit Card,,4.0,2025-03-13 22:56:16.180336,False,3,Thursday
+ORD00045,CUST0012,Headphones,Electronics,2,68.86,137.72,UK,Bank Transfer,20.0,1.0,2025-03-07 22:56:16.180336,False,3,Friday
+ORD00046,CUST0041,Camera,Electronics,3,955.66,2866.97,Australia,Bank Transfer,67.0,5.0,2025-01-13 22:56:16.180336,False,1,Monday
+ORD00047,CUST0134,Tablet,Electronics,3,718.9,2156.69,UK,Debit Card,30.0,5.0,2025-05-23 22:56:16.180336,False,5,Friday
+ORD00048,CUST0011,Watch,Electronics,4,345.37,1381.46,Germany,PayPal,18.0,1.0,2025-02-11 22:56:16.180336,False,2,Tuesday
+ORD00049,CUST0102,Laptop,Electronics,5,1963.9,9819.49,Canada,Credit Card,34.0,5.0,2025-08-22 22:56:16.180336,False,8,Friday
+ORD00050,CUST0113,Watch,Electronics,3,390.45,1171.35,UK,Bank Transfer,30.0,1.0,2024-10-16 22:56:16.180336,False,10,Wednesday
+ORD00051,CUST0145,Phone,Electronics,3,798.53,2395.6,Germany,Credit Card,47.0,1.0,2024-12-08 22:56:16.180336,True,12,Sunday
+ORD00052,CUST0179,Camera,Electronics,2,1204.08,2408.16,UK,Bank Transfer,67.0,3.0,2025-06-24 22:56:16.180336,False,6,Tuesday
+ORD00053,CUST0034,Laptop,Electronics,6,1416.79,8500.72,France,Credit Card,34.0,5.0,2025-04-17 22:56:16.180336,False,4,Thursday
+ORD00054,CUST0104,Phone,Electronics,3,663.0,1989.0,Australia,Bank Transfer,33.0,4.0,2025-06-21 22:56:16.180336,True,6,Saturday
+ORD00055,CUST0170,Laptop,Electronics,3,1876.15,5628.44,Germany,PayPal,38.0,4.0,2025-02-14 22:56:16.180336,False,2,Friday
+ORD00056,CUST0047,Watch,Electronics,4,319.49,1277.94,US,PayPal,26.0,,2025-05-21 22:56:16.180336,False,5,Wednesday
+ORD00057,CUST0047,Camera,Electronics,2,656.98,1313.96,France,PayPal,66.0,4.0,2025-08-03 22:56:16.180336,True,8,Sunday
+ORD00058,CUST0018,Phone,Electronics,3,1007.96,3023.89,UK,PayPal,24.0,3.0,2025-04-20 22:56:16.180336,True,4,Sunday
+ORD00059,CUST0086,Tablet,Electronics,1,538.3,538.3,UK,PayPal,27.0,1.0,2025-02-11 22:56:16.180336,False,2,Tuesday
+ORD00060,CUST0111,Headphones,Electronics,3,108.3,324.91,US,Bank Transfer,64.0,2.0,2025-06-05 22:56:16.180336,False,6,Thursday
+ORD00061,CUST0150,Tablet,Electronics,4,527.26,2109.05,Germany,PayPal,54.0,5.0,2025-08-26 22:56:16.180336,False,8,Tuesday
+ORD00062,CUST0031,Camera,Electronics,2,745.96,1491.92,Germany,Bank Transfer,41.0,3.0,2025-08-29 22:56:16.180336,False,8,Friday
+ORD00063,CUST0179,Camera,Electronics,5,897.86,4489.28,Germany,Bank Transfer,32.0,2.0,2024-12-16 22:56:16.180336,False,12,Monday
+ORD00064,CUST0126,Watch,Electronics,3,174.82,524.45,Canada,Debit Card,18.0,5.0,2025-02-05 22:56:16.180336,False,2,Wednesday
+ORD00065,CUST0084,Headphones,Electronics,3,130.16,390.48,US,Debit Card,61.0,2.0,2025-07-03 22:56:16.180336,False,7,Thursday
+ORD00066,CUST0062,Watch,Electronics,1,101.08,101.08,Australia,Bank Transfer,47.0,5.0,2024-11-22 22:56:16.180336,False,11,Friday
+ORD00067,CUST0093,Phone,Electronics,3,499.44,1498.31,Canada,Credit Card,39.0,,2024-11-19 22:56:16.180336,False,11,Tuesday
+ORD00068,CUST0089,Watch,Electronics,2,180.65,361.3,Germany,PayPal,31.0,4.0,2024-10-20 22:56:16.180336,True,10,Sunday
+ORD00069,CUST0053,Laptop,Electronics,5,1619.58,8097.89,Canada,Debit Card,42.0,2.0,2024-12-17 22:56:16.180336,False,12,Tuesday
+ORD00070,CUST0164,Tablet,Electronics,4,558.92,2235.67,Germany,PayPal,69.0,3.0,2025-02-03 22:56:16.180336,False,2,Monday
+ORD00071,CUST0118,Laptop,Electronics,3,1174.07,3522.2,France,Credit Card,22.0,1.0,2025-01-09 22:56:16.180336,False,1,Thursday
+ORD00072,CUST0115,Headphones,Electronics,4,164.25,657.0,Canada,Bank Transfer,19.0,,2025-09-04 22:56:16.180336,False,9,Thursday
+ORD00073,CUST0141,Headphones,Electronics,5,229.04,1145.22,France,PayPal,63.0,2.0,2024-11-07 22:56:16.180336,False,11,Thursday
+ORD00074,CUST0092,Laptop,Electronics,3,1107.22,3321.66,UK,Credit Card,54.0,2.0,2025-09-04 22:56:16.180336,False,9,Thursday
+ORD00075,CUST0149,Camera,Electronics,1,577.32,577.32,UK,PayPal,40.0,5.0,2025-08-08 22:56:16.180336,False,8,Friday
+ORD00076,CUST0169,Headphones,Electronics,5,81.17,405.83,Canada,Debit Card,69.0,2.0,2025-08-20 22:56:16.180336,False,8,Wednesday
+ORD00077,CUST0179,Headphones,Electronics,3,184.35,553.05,France,Bank Transfer,60.0,,2025-09-27 22:56:16.180336,True,9,Saturday
+ORD00078,CUST0084,Laptop,Electronics,4,1398.04,5592.17,US,Credit Card,67.0,1.0,2025-03-14 22:56:16.180336,False,3,Friday
+ORD00079,CUST0179,Headphones,Electronics,1,153.66,153.66,Canada,Bank Transfer,24.0,5.0,2025-04-22 22:56:16.180336,False,4,Tuesday
+ORD00080,CUST0175,Tablet,Electronics,3,509.63,1528.9,UK,PayPal,35.0,3.0,2025-03-08 22:56:16.180336,True,3,Saturday
+ORD00081,CUST0110,Camera,Electronics,3,940.76,2822.29,UK,Bank Transfer,56.0,2.0,2025-07-06 22:56:16.180336,True,7,Sunday
+ORD00082,CUST0072,Laptop,Electronics,2,830.46,1660.93,France,Credit Card,20.0,3.0,2025-09-29 22:56:16.180336,False,9,Monday
+ORD00083,CUST0144,Watch,Electronics,3,171.42,514.25,Australia,Bank Transfer,49.0,3.0,2025-01-19 22:56:16.180336,True,1,Sunday
+ORD00084,CUST0112,Watch,Electronics,2,156.43,312.87,Germany,Debit Card,50.0,3.0,2024-10-22 22:56:16.180336,False,10,Tuesday
+ORD00085,CUST0166,Headphones,Electronics,4,210.73,842.93,France,Credit Card,29.0,5.0,2025-04-28 22:56:16.180336,False,4,Monday
+ORD00086,CUST0114,Phone,Electronics,4,1088.85,4355.42,Canada,Credit Card,63.0,1.0,2025-03-22 22:56:16.180336,True,3,Saturday
+ORD00087,CUST0109,Camera,Electronics,3,1241.69,3725.06,UK,Debit Card,21.0,5.0,2025-07-20 22:56:16.180336,True,7,Sunday
+ORD00088,CUST0122,Watch,Electronics,2,107.36,214.71,Australia,Debit Card,51.0,1.0,2025-10-06 22:56:16.180336,False,10,Monday
+ORD00089,CUST0053,Watch,Electronics,2,104.4,208.8,UK,Credit Card,51.0,1.0,2025-02-26 22:56:16.180336,False,2,Wednesday
+ORD00090,CUST0115,Laptop,Electronics,3,1302.52,3907.57,UK,Credit Card,68.0,,2025-08-21 22:56:16.180336,False,8,Thursday
+ORD00091,CUST0036,Watch,Electronics,6,434.83,2608.99,Australia,Debit Card,22.0,2.0,2025-03-16 22:56:16.180336,True,3,Sunday
+ORD00092,CUST0017,Tablet,Electronics,3,804.92,2414.75,US,Credit Card,26.0,,2025-05-04 22:56:16.180336,True,5,Sunday
+ORD00093,CUST0012,Watch,Electronics,2,375.36,750.72,Canada,Credit Card,61.0,2.0,2025-02-23 22:56:16.180336,True,2,Sunday
+ORD00094,CUST0118,Headphones,Electronics,5,251.86,1259.29,France,Bank Transfer,25.0,1.0,2025-01-03 22:56:16.180336,False,1,Friday
+ORD00095,CUST0151,Laptop,Electronics,3,1884.04,5652.11,UK,Credit Card,,1.0,2024-11-10 22:56:16.180336,True,11,Sunday
+ORD00096,CUST0059,Camera,Electronics,1,1415.49,1415.49,Germany,PayPal,68.0,2.0,2025-02-09 22:56:16.180336,True,2,Sunday
+ORD00097,CUST0037,Camera,Electronics,4,554.88,2219.53,Canada,Bank Transfer,62.0,,2025-03-16 22:56:16.180336,True,3,Sunday
+ORD00098,CUST0141,Phone,Electronics,1,979.81,979.81,UK,Credit Card,21.0,1.0,2024-10-30 22:56:16.180336,False,10,Wednesday
+ORD00099,CUST0123,Watch,Electronics,2,346.35,692.69,France,Bank Transfer,30.0,3.0,2025-04-03 22:56:16.180336,False,4,Thursday
+ORD00100,CUST0103,Watch,Electronics,3,406.88,1220.63,Australia,Credit Card,27.0,,2025-06-08 22:56:16.180336,True,6,Sunday
+ORD00101,CUST0153,Laptop,Electronics,1,1086.53,1086.53,US,Credit Card,67.0,5.0,2025-03-06 22:56:16.180336,False,3,Thursday
+ORD00102,CUST0124,Camera,Electronics,1,545.1,545.1,France,Debit Card,54.0,3.0,2025-09-24 22:56:16.180336,False,9,Wednesday
+ORD00103,CUST0107,Camera,Electronics,4,1100.8,4403.19,UK,Credit Card,68.0,2.0,2024-12-26 22:56:16.180336,False,12,Thursday
+ORD00104,CUST0163,Phone,Electronics,5,429.39,2146.93,UK,PayPal,66.0,2.0,2024-10-24 22:56:16.180336,False,10,Thursday
+ORD00105,CUST0123,Camera,Electronics,5,1496.34,7481.68,Australia,Credit Card,51.0,3.0,2024-12-22 22:56:16.180336,True,12,Sunday
+ORD00106,CUST0124,Laptop,Electronics,2,853.25,1706.5,France,Bank Transfer,28.0,,2024-11-24 22:56:16.180336,True,11,Sunday
+ORD00107,CUST0081,Tablet,Electronics,2,734.05,1468.1,UK,Bank Transfer,45.0,,2025-08-27 22:56:16.180336,False,8,Wednesday
+ORD00108,CUST0080,Watch,Electronics,4,292.23,1168.94,Australia,Credit Card,50.0,3.0,2025-09-27 22:56:16.180336,True,9,Saturday
+ORD00109,CUST0031,Tablet,Electronics,6,820.38,4922.26,UK,PayPal,62.0,3.0,2024-10-22 22:56:16.180336,False,10,Tuesday
+ORD00110,CUST0013,Tablet,Electronics,2,437.18,874.35,France,Debit Card,46.0,2.0,2025-06-30 22:56:16.180336,False,6,Monday
+ORD00111,CUST0158,Laptop,Electronics,1,1471.81,1471.81,UK,Credit Card,41.0,3.0,2025-10-04 22:56:16.180336,True,10,Saturday
+ORD00112,CUST0192,Phone,Electronics,3,673.5,2020.49,US,Bank Transfer,53.0,,2025-04-29 22:56:16.180336,False,4,Tuesday
+ORD00113,CUST0164,Camera,Electronics,2,1208.57,2417.14,Canada,Debit Card,,5.0,2025-02-12 22:56:16.180336,False,2,Wednesday
+ORD00114,CUST0058,Headphones,Electronics,1,239.57,239.57,UK,PayPal,32.0,3.0,2024-11-17 22:56:16.180336,True,11,Sunday
+ORD00115,CUST0032,Camera,Electronics,2,968.54,1937.08,UK,Debit Card,46.0,4.0,2024-11-23 22:56:16.180336,True,11,Saturday
+ORD00116,CUST0021,Camera,Electronics,1,730.05,730.05,Germany,Debit Card,61.0,,2025-04-28 22:56:16.180336,False,4,Monday
+ORD00117,CUST0025,Headphones,Electronics,3,149.4,448.2,Australia,PayPal,52.0,,2024-10-30 22:56:16.180336,False,10,Wednesday
+ORD00118,CUST0093,Headphones,Electronics,4,168.3,673.21,Australia,Credit Card,67.0,3.0,2025-01-02 22:56:16.180336,False,1,Thursday
+ORD00119,CUST0009,Headphones,Electronics,2,291.88,583.76,France,Bank Transfer,34.0,4.0,2025-05-25 22:56:16.180336,True,5,Sunday
+ORD00120,CUST0018,Laptop,Electronics,3,992.99,2978.97,France,Bank Transfer,30.0,5.0,2024-12-26 22:56:16.180336,False,12,Thursday
+ORD00121,CUST0179,Phone,Electronics,3,783.95,2351.85,US,Credit Card,58.0,,2025-07-31 22:56:16.180336,False,7,Thursday
+ORD00122,CUST0097,Headphones,Electronics,2,296.67,593.33,UK,Credit Card,50.0,2.0,2025-01-09 22:56:16.180336,False,1,Thursday
+ORD00123,CUST0174,Laptop,Electronics,1,1859.04,1859.04,UK,PayPal,39.0,2.0,2024-12-31 22:56:16.180336,False,12,Tuesday
+ORD00124,CUST0114,Phone,Electronics,3,432.95,1298.84,Australia,Bank Transfer,,1.0,2025-02-15 22:56:16.180336,True,2,Saturday
+ORD00125,CUST0188,Phone,Electronics,5,900.24,4501.22,UK,PayPal,20.0,,2025-08-25 22:56:16.180336,False,8,Monday
+ORD00126,CUST0119,Tablet,Electronics,4,734.9,2939.58,Germany,Debit Card,53.0,5.0,2025-03-11 22:56:16.180336,False,3,Tuesday
+ORD00127,CUST0131,Tablet,Electronics,1,397.0,397.0,Australia,PayPal,49.0,3.0,2025-05-14 22:56:16.180336,False,5,Wednesday
+ORD00128,CUST0159,Tablet,Electronics,1,708.14,708.14,UK,Credit Card,29.0,5.0,2025-05-10 22:56:16.180336,True,5,Saturday
+ORD00129,CUST0079,Headphones,Electronics,5,207.19,1035.96,UK,Bank Transfer,51.0,2.0,2025-01-28 22:56:16.180336,False,1,Tuesday
+ORD00130,CUST0099,Camera,Electronics,3,1155.01,3465.03,UK,Bank Transfer,57.0,1.0,2025-02-23 22:56:16.180336,True,2,Sunday
+ORD00131,CUST0041,Headphones,Electronics,2,277.26,554.52,France,PayPal,54.0,5.0,2025-09-14 22:56:16.180336,True,9,Sunday
+ORD00132,CUST0005,Headphones,Electronics,4,151.26,605.02,US,Bank Transfer,45.0,5.0,2025-03-09 22:56:16.180336,True,3,Sunday
+ORD00133,CUST0076,Headphones,Electronics,3,82.72,248.16,France,Credit Card,33.0,2.0,2025-04-28 22:56:16.180336,False,4,Monday
+ORD00134,CUST0165,Laptop,Electronics,4,1339.32,5357.28,US,Credit Card,,5.0,2025-07-26 22:56:16.180336,True,7,Saturday
+ORD00135,CUST0001,Headphones,Electronics,4,161.59,646.37,Canada,PayPal,54.0,5.0,2025-09-14 22:56:16.180336,True,9,Sunday
+ORD00136,CUST0050,Watch,Electronics,3,473.55,1420.65,Germany,Credit Card,41.0,2.0,2025-07-18 22:56:16.180336,False,7,Friday
+ORD00137,CUST0119,Tablet,Electronics,2,593.31,1186.62,UK,Credit Card,33.0,4.0,2025-02-18 22:56:16.180336,False,2,Tuesday
+ORD00138,CUST0171,Laptop,Electronics,2,1677.0,3353.99,UK,PayPal,18.0,2.0,2025-01-09 22:56:16.180336,False,1,Thursday
+ORD00139,CUST0048,Phone,Electronics,4,595.32,2381.27,Germany,Credit Card,50.0,5.0,2025-09-25 22:56:16.180336,False,9,Thursday
+ORD00140,CUST0073,Phone,Electronics,2,678.86,1357.72,Germany,Credit Card,58.0,5.0,2024-12-17 22:56:16.180336,False,12,Tuesday
+ORD00141,CUST0143,Laptop,Electronics,7,930.93,6516.52,US,Bank Transfer,41.0,1.0,2025-10-15 22:56:16.180336,False,10,Wednesday
+ORD00142,CUST0011,Phone,Electronics,3,716.94,2150.81,Canada,Bank Transfer,52.0,2.0,2025-08-16 22:56:16.180336,True,8,Saturday
+ORD00143,CUST0015,Camera,Electronics,7,1142.58,7998.03,Canada,Bank Transfer,51.0,4.0,2025-03-17 22:56:16.180336,False,3,Monday
+ORD00144,CUST0051,Camera,Electronics,4,1246.88,4987.5,Australia,Credit Card,32.0,3.0,2025-09-16 22:56:16.180336,False,9,Tuesday
+ORD00145,CUST0136,Watch,Electronics,1,240.65,240.65,UK,Bank Transfer,46.0,3.0,2024-12-06 22:56:16.180336,False,12,Friday
+ORD00146,CUST0039,Camera,Electronics,2,1216.15,2432.3,Germany,Debit Card,24.0,2.0,2025-09-25 22:56:16.180336,False,9,Thursday
+ORD00147,CUST0106,Laptop,Electronics,3,1480.77,4442.32,Canada,Credit Card,61.0,,2025-07-05 22:56:16.180336,True,7,Saturday
+ORD00148,CUST0154,Camera,Electronics,3,1319.19,3957.57,Canada,Credit Card,59.0,1.0,2024-10-25 22:56:16.180336,False,10,Friday
+ORD00149,CUST0108,Headphones,Electronics,4,118.7,474.81,UK,Credit Card,67.0,1.0,2025-03-28 22:56:16.180336,False,3,Friday
+ORD00150,CUST0078,Watch,Electronics,1,138.29,138.29,Germany,Credit Card,24.0,2.0,2025-03-07 22:56:16.180336,False,3,Friday
+ORD00151,CUST0024,Laptop,Electronics,2,1396.12,2792.24,Australia,PayPal,59.0,1.0,2025-01-08 22:56:16.180336,False,1,Wednesday
+ORD00152,CUST0123,Tablet,Electronics,4,661.93,2647.73,France,Credit Card,20.0,1.0,2025-06-01 22:56:16.180336,True,6,Sunday
+ORD00153,CUST0044,Headphones,Electronics,3,160.6,481.81,Germany,PayPal,55.0,3.0,2025-03-24 22:56:16.180336,False,3,Monday
+ORD00154,CUST0008,Tablet,Electronics,1,414.19,414.19,France,Bank Transfer,34.0,4.0,2025-04-05 22:56:16.180336,True,4,Saturday
+ORD00155,CUST0145,Phone,Electronics,2,1166.1,2332.2,Australia,Bank Transfer,47.0,4.0,2025-08-22 22:56:16.180336,False,8,Friday
+ORD00156,CUST0065,Headphones,Electronics,2,168.72,337.44,US,PayPal,22.0,4.0,2025-02-07 22:56:16.180336,False,2,Friday
+ORD00157,CUST0066,Watch,Electronics,4,137.17,548.69,US,Credit Card,31.0,2.0,2024-11-22 22:56:16.180336,False,11,Friday
+ORD00158,CUST0143,Phone,Electronics,3,1149.57,3448.7,France,Bank Transfer,23.0,3.0,2025-03-18 22:56:16.180336,False,3,Tuesday
+ORD00159,CUST0080,Watch,Electronics,3,256.42,769.25,Australia,PayPal,59.0,3.0,2025-08-02 22:56:16.180336,True,8,Saturday
+ORD00160,CUST0010,Laptop,Electronics,1,1187.03,1187.03,US,PayPal,35.0,2.0,2025-09-27 22:56:16.180336,True,9,Saturday
+ORD00161,CUST0134,Laptop,Electronics,3,1375.23,4125.68,US,Credit Card,69.0,1.0,2025-09-16 22:56:16.180336,False,9,Tuesday
+ORD00162,CUST0141,Watch,Electronics,3,148.7,446.11,France,Bank Transfer,49.0,4.0,2025-04-06 22:56:16.180336,True,4,Sunday
+ORD00163,CUST0005,Phone,Electronics,2,622.2,1244.4,Canada,PayPal,40.0,3.0,2024-11-27 22:56:16.180336,False,11,Wednesday
+ORD00164,CUST0007,Phone,Electronics,4,569.4,2277.62,Australia,Credit Card,38.0,3.0,2025-01-06 22:56:16.180336,False,1,Monday
+ORD00165,CUST0063,Headphones,Electronics,2,208.3,416.59,Germany,Bank Transfer,53.0,2.0,2025-08-19 22:56:16.180336,False,8,Tuesday
+ORD00166,CUST0130,Camera,Electronics,3,1154.08,3462.23,France,Debit Card,22.0,,2025-06-01 22:56:16.180336,True,6,Sunday
+ORD00167,CUST0181,Watch,Electronics,3,107.68,323.03,UK,Credit Card,43.0,5.0,2024-12-19 22:56:16.180336,False,12,Thursday
+ORD00168,CUST0052,Watch,Electronics,2,117.05,234.11,Australia,PayPal,43.0,2.0,2025-04-24 22:56:16.180336,False,4,Thursday
+ORD00169,CUST0060,Tablet,Electronics,4,525.53,2102.13,Germany,Credit Card,26.0,2.0,2025-01-28 22:56:16.180336,False,1,Tuesday
+ORD00170,CUST0188,Phone,Electronics,4,1144.26,4577.02,Germany,Debit Card,25.0,1.0,2025-07-06 22:56:16.180336,True,7,Sunday
+ORD00171,CUST0152,Watch,Electronics,3,394.97,1184.92,US,Credit Card,62.0,3.0,2025-01-10 22:56:16.180336,False,1,Friday
+ORD00172,CUST0051,Headphones,Electronics,2,234.38,468.75,Canada,PayPal,36.0,4.0,2025-03-03 22:56:16.180336,False,3,Monday
+ORD00173,CUST0081,Watch,Electronics,2,319.85,639.69,US,Credit Card,,,2025-03-02 22:56:16.180336,True,3,Sunday
+ORD00174,CUST0122,Phone,Electronics,1,933.88,933.88,France,Debit Card,31.0,,2025-08-03 22:56:16.180336,True,8,Sunday
+ORD00175,CUST0011,Phone,Electronics,1,657.77,657.77,UK,Debit Card,30.0,4.0,2025-09-27 22:56:16.180336,True,9,Saturday
+ORD00176,CUST0158,Laptop,Electronics,2,1913.7,3827.4,Australia,Credit Card,42.0,4.0,2025-08-26 22:56:16.180336,False,8,Tuesday
+ORD00177,CUST0149,Headphones,Electronics,4,99.37,397.47,Germany,PayPal,29.0,2.0,2025-02-11 22:56:16.180336,False,2,Tuesday
+ORD00178,CUST0022,Watch,Electronics,3,491.36,1474.08,Australia,Credit Card,39.0,1.0,2025-05-27 22:56:16.180336,False,5,Tuesday
+ORD00179,CUST0022,Watch,Electronics,1,165.93,165.93,Canada,Credit Card,32.0,4.0,2025-07-25 22:56:16.180336,False,7,Friday
+ORD00180,CUST0128,Watch,Electronics,2,397.37,794.74,Germany,Debit Card,56.0,1.0,2024-11-07 22:56:16.180336,False,11,Thursday
+ORD00181,CUST0128,Phone,Electronics,5,846.43,4232.17,France,Debit Card,60.0,5.0,2025-08-31 22:56:16.180336,True,8,Sunday
+ORD00182,CUST0162,Tablet,Electronics,4,412.81,1651.26,Germany,Credit Card,29.0,1.0,2025-01-13 22:56:16.180336,False,1,Monday
+ORD00183,CUST0020,Headphones,Electronics,2,131.73,263.47,UK,Bank Transfer,21.0,4.0,2025-08-23 22:56:16.180336,True,8,Saturday
+ORD00184,CUST0020,Camera,Electronics,3,1093.04,3279.13,US,Debit Card,21.0,5.0,2025-05-05 22:56:16.180336,False,5,Monday
+ORD00185,CUST0024,Headphones,Electronics,2,177.53,355.05,UK,PayPal,21.0,,2025-04-19 22:56:16.180336,True,4,Saturday
+ORD00186,CUST0109,Phone,Electronics,1,881.72,881.72,Australia,PayPal,36.0,,2025-08-16 22:56:16.180336,True,8,Saturday
+ORD00187,CUST0116,Phone,Electronics,4,966.14,3864.58,US,Debit Card,50.0,,2025-04-16 22:56:16.180336,False,4,Wednesday
+ORD00188,CUST0144,Headphones,Electronics,6,233.92,1403.49,Germany,Credit Card,28.0,2.0,2025-05-01 22:56:16.180336,False,5,Thursday
+ORD00189,CUST0109,Headphones,Electronics,2,140.56,281.12,Canada,Credit Card,62.0,3.0,2025-02-05 22:56:16.180336,False,2,Wednesday
+ORD00190,CUST0004,Tablet,Electronics,4,455.58,1822.31,France,Debit Card,22.0,2.0,2024-12-03 22:56:16.180336,False,12,Tuesday
+ORD00191,CUST0152,Phone,Electronics,2,1127.51,2255.02,US,Bank Transfer,61.0,4.0,2025-08-08 22:56:16.180336,False,8,Friday
+ORD00192,CUST0080,Watch,Electronics,1,127.58,127.58,France,Debit Card,52.0,2.0,2025-09-22 22:56:16.180336,False,9,Monday
+ORD00193,CUST0107,Phone,Electronics,2,1075.83,2151.66,US,Credit Card,,,2025-05-31 22:56:16.180336,True,5,Saturday
+ORD00194,CUST0170,Headphones,Electronics,2,128.8,257.59,UK,Bank Transfer,37.0,5.0,2025-03-24 22:56:16.180336,False,3,Monday
+ORD00195,CUST0189,Camera,Electronics,4,1230.82,4923.28,US,Credit Card,42.0,4.0,2025-08-16 22:56:16.180336,True,8,Saturday
+ORD00196,CUST0098,Phone,Electronics,2,976.01,1952.01,Australia,PayPal,34.0,5.0,2025-01-09 22:56:16.180336,False,1,Thursday
+ORD00197,CUST0022,Tablet,Electronics,3,340.6,1021.8,US,PayPal,27.0,2.0,2025-05-01 22:56:16.180336,False,5,Thursday
+ORD00198,CUST0063,Phone,Electronics,4,769.84,3079.35,US,Bank Transfer,27.0,3.0,2025-08-05 22:56:16.180336,False,8,Tuesday
+ORD00199,CUST0125,Watch,Electronics,3,165.88,497.65,US,Bank Transfer,39.0,3.0,2025-06-04 22:56:16.180336,False,6,Wednesday
+ORD00200,CUST0023,Phone,Electronics,3,1000.58,3001.75,US,Debit Card,69.0,4.0,2024-11-28 22:56:16.180336,False,11,Thursday
+ORD00201,CUST0164,Phone,Electronics,2,474.73,949.45,Germany,Credit Card,41.0,1.0,2025-07-10 22:56:16.180336,False,7,Thursday
+ORD00202,CUST0027,Laptop,Electronics,3,1275.16,3825.49,UK,Debit Card,33.0,3.0,2025-07-10 22:56:16.180336,False,7,Thursday
+ORD00203,CUST0198,Camera,Electronics,2,640.71,1281.42,France,PayPal,65.0,4.0,2025-01-24 22:56:16.180336,False,1,Friday
+ORD00204,CUST0128,Tablet,Electronics,6,829.45,4976.7,Canada,Credit Card,45.0,3.0,2025-07-11 22:56:16.180336,False,7,Friday
+ORD00205,CUST0009,Laptop,Electronics,1,911.64,911.64,Australia,PayPal,22.0,4.0,2025-03-18 22:56:16.180336,False,3,Tuesday
+ORD00206,CUST0156,Phone,Electronics,6,488.6,2931.59,UK,PayPal,47.0,5.0,2025-02-23 22:56:16.180336,True,2,Sunday
+ORD00207,CUST0069,Laptop,Electronics,2,1087.85,2175.7,Australia,Debit Card,40.0,1.0,2025-09-18 22:56:16.180336,False,9,Thursday
+ORD00208,CUST0047,Camera,Electronics,2,1479.1,2958.21,France,Credit Card,52.0,4.0,2025-07-14 22:56:16.180336,False,7,Monday
+ORD00209,CUST0117,Headphones,Electronics,4,106.79,427.18,Germany,PayPal,38.0,,2025-08-14 22:56:16.180336,False,8,Thursday
+ORD00210,CUST0098,Headphones,Electronics,5,284.58,1422.88,France,PayPal,44.0,3.0,2025-05-28 22:56:16.180336,False,5,Wednesday
+ORD00211,CUST0102,Camera,Electronics,4,1364.56,5458.25,France,Bank Transfer,,2.0,2025-01-07 22:56:16.180336,False,1,Tuesday
+ORD00212,CUST0019,Laptop,Electronics,4,1150.66,4602.65,Australia,PayPal,26.0,1.0,2025-09-07 22:56:16.180336,True,9,Sunday
+ORD00213,CUST0089,Camera,Electronics,1,620.25,620.25,France,Debit Card,,4.0,2025-07-28 22:56:16.180336,False,7,Monday
+ORD00214,CUST0120,Watch,Electronics,3,218.9,656.69,Germany,PayPal,19.0,1.0,2024-12-22 22:56:16.180336,True,12,Sunday
+ORD00215,CUST0020,Laptop,Electronics,2,1142.35,2284.7,Germany,Debit Card,38.0,,2024-12-04 22:56:16.180336,False,12,Wednesday
+ORD00216,CUST0008,Headphones,Electronics,1,78.73,78.73,Germany,Debit Card,51.0,1.0,2025-09-04 22:56:16.180336,False,9,Thursday
+ORD00217,CUST0051,Headphones,Electronics,2,277.67,555.34,France,Bank Transfer,46.0,5.0,2025-03-11 22:56:16.180336,False,3,Tuesday
+ORD00218,CUST0194,Laptop,Electronics,2,1643.16,3286.32,UK,Debit Card,29.0,4.0,2024-11-12 22:56:16.180336,False,11,Tuesday
+ORD00219,CUST0006,Laptop,Electronics,2,1407.52,2815.04,UK,Debit Card,,,2025-03-17 22:56:16.180336,False,3,Monday
+ORD00220,CUST0189,Tablet,Electronics,4,466.09,1864.35,France,Credit Card,37.0,5.0,2025-08-02 22:56:16.180336,True,8,Saturday
+ORD00221,CUST0009,Camera,Electronics,4,549.5,2197.99,Germany,Credit Card,59.0,1.0,2025-06-17 22:56:16.180336,False,6,Tuesday
+ORD00222,CUST0001,Laptop,Electronics,4,1781.85,7127.39,Australia,Debit Card,36.0,5.0,2025-04-25 22:56:16.180336,False,4,Friday
+ORD00223,CUST0091,Headphones,Electronics,3,270.56,811.69,France,Debit Card,45.0,1.0,2025-08-12 22:56:16.180336,False,8,Tuesday
+ORD00224,CUST0127,Camera,Electronics,1,757.61,757.61,Australia,PayPal,35.0,1.0,2025-04-08 22:56:16.180336,False,4,Tuesday
+ORD00225,CUST0105,Watch,Electronics,3,148.41,445.23,UK,PayPal,56.0,5.0,2025-06-15 22:56:16.180336,True,6,Sunday
+ORD00226,CUST0003,Tablet,Electronics,1,656.2,656.2,Australia,PayPal,26.0,4.0,2025-05-13 22:56:16.180336,False,5,Tuesday
+ORD00227,CUST0062,Tablet,Electronics,6,744.59,4467.53,US,Debit Card,62.0,5.0,2025-06-07 22:56:16.180336,True,6,Saturday
+ORD00228,CUST0032,Laptop,Electronics,5,1675.01,8375.04,Canada,Debit Card,47.0,2.0,2024-12-27 22:56:16.180336,False,12,Friday
+ORD00229,CUST0184,Headphones,Electronics,2,194.82,389.63,Australia,Credit Card,53.0,2.0,2024-12-29 22:56:16.180336,True,12,Sunday
+ORD00230,CUST0136,Headphones,Electronics,4,61.19,244.78,UK,Bank Transfer,66.0,5.0,2025-02-18 22:56:16.180336,False,2,Tuesday
+ORD00231,CUST0067,Headphones,Electronics,2,195.06,390.11,Canada,Credit Card,22.0,3.0,2025-02-05 22:56:16.180336,False,2,Wednesday
+ORD00232,CUST0030,Headphones,Electronics,3,74.83,224.48,UK,Credit Card,,5.0,2024-12-05 22:56:16.180336,False,12,Thursday
+ORD00233,CUST0109,Phone,Electronics,5,492.91,2464.56,France,Bank Transfer,64.0,1.0,2025-07-27 22:56:16.180336,True,7,Sunday
+ORD00234,CUST0085,Watch,Electronics,5,161.66,808.29,France,Debit Card,62.0,1.0,2024-11-26 22:56:16.180336,False,11,Tuesday
+ORD00235,CUST0179,Headphones,Electronics,3,108.76,326.28,Germany,Credit Card,30.0,3.0,2025-07-22 22:56:16.180336,False,7,Tuesday
+ORD00236,CUST0118,Tablet,Electronics,4,828.19,3312.76,Canada,Debit Card,22.0,4.0,2025-09-21 22:56:16.180336,True,9,Sunday
+ORD00237,CUST0012,Tablet,Electronics,4,845.67,3382.69,France,Credit Card,37.0,2.0,2024-10-20 22:56:16.180336,True,10,Sunday
+ORD00238,CUST0192,Tablet,Electronics,5,577.61,2888.03,US,Debit Card,41.0,3.0,2025-01-25 22:56:16.180336,True,1,Saturday
+ORD00239,CUST0072,Phone,Electronics,4,980.57,3922.29,Australia,Credit Card,62.0,1.0,2025-06-11 22:56:16.180336,False,6,Wednesday
+ORD00240,CUST0031,Laptop,Electronics,2,1568.24,3136.48,UK,Bank Transfer,22.0,5.0,2024-12-17 22:56:16.180336,False,12,Tuesday
+ORD00241,CUST0184,Camera,Electronics,3,1187.72,3563.17,France,Credit Card,29.0,3.0,2025-02-18 22:56:16.180336,False,2,Tuesday
+ORD00242,CUST0141,Camera,Electronics,5,508.86,2544.32,Germany,Bank Transfer,54.0,5.0,2024-12-19 22:56:16.180336,False,12,Thursday
+ORD00243,CUST0099,Laptop,Electronics,3,1719.34,5158.02,Canada,PayPal,31.0,3.0,2025-07-07 22:56:16.180336,False,7,Monday
+ORD00244,CUST0119,Headphones,Electronics,2,194.26,388.52,UK,PayPal,33.0,1.0,2025-01-06 22:56:16.180336,False,1,Monday
+ORD00245,CUST0136,Headphones,Electronics,1,226.77,226.77,France,Bank Transfer,48.0,3.0,2024-10-28 22:56:16.180336,False,10,Monday
+ORD00246,CUST0013,Camera,Electronics,1,766.17,766.17,Germany,Debit Card,18.0,5.0,2025-06-03 22:56:16.180336,False,6,Tuesday
+ORD00247,CUST0148,Watch,Electronics,3,266.45,799.35,UK,PayPal,27.0,4.0,2024-11-16 22:56:16.180336,True,11,Saturday
+ORD00248,CUST0098,Phone,Electronics,5,971.16,4855.81,Canada,Credit Card,48.0,2.0,2025-07-06 22:56:16.180336,True,7,Sunday
+ORD00249,CUST0087,Headphones,Electronics,1,150.61,150.61,UK,Bank Transfer,43.0,1.0,2025-06-13 22:56:16.180336,False,6,Friday
+ORD00250,CUST0155,Laptop,Electronics,2,1208.44,2416.89,UK,Bank Transfer,18.0,1.0,2025-03-20 22:56:16.180336,False,3,Thursday
+ORD00251,CUST0060,Headphones,Electronics,4,247.23,988.93,Canada,Credit Card,40.0,1.0,2025-04-12 22:56:16.180336,True,4,Saturday
+ORD00252,CUST0094,Phone,Electronics,3,511.29,1533.88,US,Credit Card,34.0,1.0,2024-11-08 22:56:16.180336,False,11,Friday
+ORD00253,CUST0099,Headphones,Electronics,2,245.46,490.91,UK,Bank Transfer,56.0,1.0,2025-01-24 22:56:16.180336,False,1,Friday
+ORD00254,CUST0016,Camera,Electronics,1,1270.78,1270.78,US,Credit Card,30.0,2.0,2024-10-28 22:56:16.180336,False,10,Monday
+ORD00255,CUST0018,Camera,Electronics,3,972.28,2916.85,Canada,Bank Transfer,,4.0,2025-04-06 22:56:16.180336,True,4,Sunday
+ORD00256,CUST0049,Camera,Electronics,3,1144.83,3434.5,France,PayPal,60.0,1.0,2025-10-06 22:56:16.180336,False,10,Monday
+ORD00257,CUST0081,Phone,Electronics,1,835.04,835.04,Australia,PayPal,,2.0,2024-12-28 22:56:16.180336,True,12,Saturday
+ORD00258,CUST0090,Phone,Electronics,4,425.14,1700.55,France,Credit Card,53.0,,2024-11-13 22:56:16.180336,False,11,Wednesday
+ORD00259,CUST0187,Headphones,Electronics,2,163.73,327.46,France,Credit Card,44.0,2.0,2025-01-15 22:56:16.180336,False,1,Wednesday
+ORD00260,CUST0016,Phone,Electronics,3,545.39,1636.17,Canada,Credit Card,69.0,4.0,2024-12-09 22:56:16.180336,False,12,Monday
+ORD00261,CUST0157,Headphones,Electronics,6,187.1,1122.57,UK,PayPal,21.0,5.0,2024-11-29 22:56:16.180336,False,11,Friday
+ORD00262,CUST0056,Headphones,Electronics,1,168.35,168.35,Australia,PayPal,57.0,5.0,2025-05-21 22:56:16.180336,False,5,Wednesday
+ORD00263,CUST0185,Tablet,Electronics,1,877.66,877.66,UK,Credit Card,43.0,2.0,2025-06-05 22:56:16.180336,False,6,Thursday
+ORD00264,CUST0102,Phone,Electronics,4,652.12,2608.47,France,Bank Transfer,60.0,4.0,2025-10-01 22:56:16.180336,False,10,Wednesday
+ORD00265,CUST0054,Laptop,Electronics,2,1868.17,3736.34,US,PayPal,37.0,3.0,2025-06-13 22:56:16.180336,False,6,Friday
+ORD00266,CUST0078,Camera,Electronics,2,1029.66,2059.32,UK,PayPal,23.0,2.0,2025-07-19 22:56:16.180336,True,7,Saturday
+ORD00267,CUST0070,Watch,Electronics,6,283.44,1700.64,US,Bank Transfer,28.0,4.0,2025-09-11 22:56:16.180336,False,9,Thursday
+ORD00268,CUST0118,Headphones,Electronics,5,287.86,1439.29,UK,PayPal,40.0,,2025-01-12 22:56:16.180336,True,1,Sunday
+ORD00269,CUST0171,Camera,Electronics,8,690.11,5520.86,US,Debit Card,53.0,1.0,2024-10-23 22:56:16.180336,False,10,Wednesday
+ORD00270,CUST0171,Headphones,Electronics,3,191.27,573.81,Germany,Bank Transfer,45.0,2.0,2024-12-28 22:56:16.180336,True,12,Saturday
+ORD00271,CUST0173,Phone,Electronics,3,657.34,1972.01,UK,Bank Transfer,46.0,5.0,2025-01-24 22:56:16.180336,False,1,Friday
+ORD00272,CUST0103,Laptop,Electronics,5,984.57,4922.84,Canada,PayPal,47.0,1.0,2025-09-03 22:56:16.180336,False,9,Wednesday
+ORD00273,CUST0087,Camera,Electronics,4,1122.04,4488.16,UK,Debit Card,43.0,4.0,2025-02-06 22:56:16.180336,False,2,Thursday
+ORD00274,CUST0056,Tablet,Electronics,3,751.06,2253.19,Canada,Credit Card,21.0,3.0,2025-06-09 22:56:16.180336,False,6,Monday
+ORD00275,CUST0149,Tablet,Electronics,2,495.8,991.61,France,Bank Transfer,24.0,5.0,2025-05-02 22:56:16.180336,False,5,Friday
+ORD00276,CUST0068,Phone,Electronics,2,1111.11,2222.22,UK,Debit Card,65.0,4.0,2024-11-25 22:56:16.180336,False,11,Monday
+ORD00277,CUST0177,Tablet,Electronics,4,604.15,2416.61,Germany,Bank Transfer,21.0,1.0,2024-11-08 22:56:16.180336,False,11,Friday
+ORD00278,CUST0188,Headphones,Electronics,1,156.31,156.31,France,PayPal,58.0,,2025-06-26 22:56:16.180336,False,6,Thursday
+ORD00279,CUST0076,Watch,Electronics,2,389.25,778.5,France,Debit Card,20.0,4.0,2025-01-08 22:56:16.180336,False,1,Wednesday
+ORD00280,CUST0126,Headphones,Electronics,3,235.47,706.42,Canada,Debit Card,65.0,1.0,2025-04-23 22:56:16.180336,False,4,Wednesday
+ORD00281,CUST0162,Camera,Electronics,3,905.75,2717.25,France,Credit Card,48.0,3.0,2025-06-13 22:56:16.180336,False,6,Friday
+ORD00282,CUST0149,Laptop,Electronics,1,1942.67,1942.67,Germany,PayPal,69.0,3.0,2025-07-15 22:56:16.180336,False,7,Tuesday
+ORD00283,CUST0167,Laptop,Electronics,5,1416.63,7083.13,Germany,PayPal,23.0,2.0,2025-01-19 22:56:16.180336,True,1,Sunday
+ORD00284,CUST0076,Laptop,Electronics,3,1128.89,3386.66,Germany,Debit Card,20.0,1.0,2025-07-04 22:56:16.180336,False,7,Friday
+ORD00285,CUST0058,Laptop,Electronics,3,1174.38,3523.14,US,PayPal,52.0,,2025-09-19 22:56:16.180336,False,9,Friday
+ORD00286,CUST0064,Phone,Electronics,4,750.13,3000.52,France,Debit Card,18.0,5.0,2025-04-01 22:56:16.180336,False,4,Tuesday
+ORD00287,CUST0120,Tablet,Electronics,1,537.93,537.93,France,Debit Card,21.0,2.0,2025-01-12 22:56:16.180336,True,1,Sunday
+ORD00288,CUST0072,Laptop,Electronics,3,1756.02,5268.05,Australia,Credit Card,68.0,,2025-07-14 22:56:16.180336,False,7,Monday
+ORD00289,CUST0078,Laptop,Electronics,2,823.75,1647.51,Germany,PayPal,50.0,4.0,2025-03-04 22:56:16.180336,False,3,Tuesday
+ORD00290,CUST0033,Tablet,Electronics,1,513.51,513.51,Germany,Bank Transfer,19.0,4.0,2024-11-03 22:56:16.180336,True,11,Sunday
+ORD00291,CUST0024,Camera,Electronics,1,1233.49,1233.49,UK,Debit Card,46.0,5.0,2025-05-18 22:56:16.180336,True,5,Sunday
+ORD00292,CUST0069,Phone,Electronics,1,1131.78,1131.78,Australia,PayPal,34.0,2.0,2024-12-16 22:56:16.180336,False,12,Monday
+ORD00293,CUST0035,Laptop,Electronics,3,1685.46,5056.39,UK,Bank Transfer,20.0,1.0,2025-05-07 22:56:16.180336,False,5,Wednesday
+ORD00294,CUST0041,Phone,Electronics,2,951.82,1903.65,France,Bank Transfer,55.0,,2025-05-22 22:56:16.180336,False,5,Thursday
+ORD00295,CUST0010,Headphones,Electronics,1,164.51,164.51,US,Credit Card,51.0,3.0,2025-09-02 22:56:16.180336,False,9,Tuesday
+ORD00296,CUST0048,Camera,Electronics,4,812.91,3251.63,Germany,Debit Card,32.0,3.0,2025-03-18 22:56:16.180336,False,3,Tuesday
+ORD00297,CUST0129,Camera,Electronics,2,1125.2,2250.41,UK,Bank Transfer,66.0,3.0,2025-08-12 22:56:16.180336,False,8,Tuesday
+ORD00298,CUST0054,Laptop,Electronics,2,1807.76,3615.52,UK,Debit Card,27.0,,2025-04-09 22:56:16.180336,False,4,Wednesday
+ORD00299,CUST0092,Headphones,Electronics,3,237.1,711.29,US,Debit Card,44.0,,2025-01-16 22:56:16.180336,False,1,Thursday
+ORD00300,CUST0110,Laptop,Electronics,3,1604.81,4814.43,Germany,Debit Card,49.0,1.0,2025-06-17 22:56:16.180336,False,6,Tuesday
+ORD00301,CUST0164,Phone,Electronics,5,450.02,2250.11,Canada,Debit Card,35.0,3.0,2025-08-15 22:56:16.180336,False,8,Friday
+ORD00302,CUST0073,Watch,Electronics,3,414.71,1244.12,Germany,PayPal,68.0,1.0,2025-01-14 22:56:16.180336,False,1,Tuesday
+ORD00303,CUST0002,Tablet,Electronics,2,623.0,1246.0,Germany,PayPal,35.0,5.0,2025-04-15 22:56:16.180336,False,4,Tuesday
+ORD00304,CUST0186,Tablet,Electronics,4,682.77,2731.09,US,Credit Card,51.0,3.0,2025-09-15 22:56:16.180336,False,9,Monday
+ORD00305,CUST0121,Headphones,Electronics,3,197.56,592.67,US,PayPal,20.0,2.0,2025-05-10 22:56:16.180336,True,5,Saturday
+ORD00306,CUST0056,Camera,Electronics,7,611.88,4283.16,UK,Debit Card,,3.0,2024-12-23 22:56:16.180336,False,12,Monday
+ORD00307,CUST0177,Laptop,Electronics,4,1228.26,4913.05,UK,PayPal,22.0,2.0,2024-11-16 22:56:16.180336,True,11,Saturday
+ORD00308,CUST0170,Laptop,Electronics,2,1182.33,2364.66,US,Bank Transfer,39.0,5.0,2025-02-01 22:56:16.180336,True,2,Saturday
+ORD00309,CUST0112,Tablet,Electronics,1,548.71,548.71,Germany,Credit Card,40.0,4.0,2025-07-27 22:56:16.180336,True,7,Sunday
+ORD00310,CUST0122,Watch,Electronics,3,387.5,1162.49,UK,Debit Card,60.0,3.0,2025-07-31 22:56:16.180336,False,7,Thursday
+ORD00311,CUST0118,Headphones,Electronics,1,195.54,195.54,France,Bank Transfer,31.0,3.0,2025-06-06 22:56:16.180336,False,6,Friday
+ORD00312,CUST0098,Tablet,Electronics,3,634.13,1902.38,Canada,Credit Card,59.0,2.0,2025-09-10 22:56:16.180336,False,9,Wednesday
+ORD00313,CUST0157,Camera,Electronics,1,1075.41,1075.41,UK,Credit Card,66.0,5.0,2025-06-11 22:56:16.180336,False,6,Wednesday
+ORD00314,CUST0131,Watch,Electronics,3,256.74,770.23,Germany,Credit Card,34.0,3.0,2025-08-20 22:56:16.180336,False,8,Wednesday
+ORD00315,CUST0108,Tablet,Electronics,2,713.18,1426.36,Canada,PayPal,18.0,1.0,2025-03-20 22:56:16.180336,False,3,Thursday
+ORD00316,CUST0179,Laptop,Electronics,4,1437.89,5751.57,UK,Bank Transfer,47.0,2.0,2025-03-03 22:56:16.180336,False,3,Monday
+ORD00317,CUST0066,Camera,Electronics,2,979.26,1958.52,Germany,Credit Card,66.0,,2025-09-15 22:56:16.180336,False,9,Monday
+ORD00318,CUST0062,Camera,Electronics,4,933.47,3733.89,Australia,Debit Card,57.0,,2025-04-15 22:56:16.180336,False,4,Tuesday
+ORD00319,CUST0061,Headphones,Electronics,3,230.68,692.05,US,Bank Transfer,66.0,4.0,2025-06-07 22:56:16.180336,True,6,Saturday
+ORD00320,CUST0009,Laptop,Electronics,5,1500.46,7502.28,Australia,PayPal,46.0,4.0,2025-05-14 22:56:16.180336,False,5,Wednesday
+ORD00321,CUST0076,Watch,Electronics,3,163.47,490.41,UK,Credit Card,54.0,2.0,2025-09-26 22:56:16.180336,False,9,Friday
+ORD00322,CUST0044,Watch,Electronics,3,385.11,1155.33,Canada,Debit Card,47.0,2.0,2025-06-09 22:56:16.180336,False,6,Monday
+ORD00323,CUST0195,Laptop,Electronics,1,1501.6,1501.6,France,Debit Card,49.0,1.0,2025-09-26 22:56:16.180336,False,9,Friday
+ORD00324,CUST0023,Camera,Electronics,4,725.04,2900.17,France,Bank Transfer,27.0,4.0,2025-10-06 22:56:16.180336,False,10,Monday
+ORD00325,CUST0149,Headphones,Electronics,2,243.42,486.83,Canada,Debit Card,39.0,,2025-06-29 22:56:16.180336,True,6,Sunday
+ORD00326,CUST0002,Watch,Electronics,4,352.02,1408.06,Canada,Credit Card,24.0,2.0,2025-06-04 22:56:16.180336,False,6,Wednesday
+ORD00327,CUST0113,Camera,Electronics,7,1206.84,8447.86,Canada,Bank Transfer,32.0,5.0,2025-09-27 22:56:16.180336,True,9,Saturday
+ORD00328,CUST0152,Tablet,Electronics,4,516.26,2065.02,UK,Credit Card,,,2025-08-02 22:56:16.180336,True,8,Saturday
+ORD00329,CUST0194,Headphones,Electronics,6,59.73,358.41,UK,Credit Card,46.0,3.0,2024-11-09 22:56:16.180336,True,11,Saturday
+ORD00330,CUST0050,Tablet,Electronics,4,647.3,2589.22,Australia,PayPal,22.0,4.0,2024-11-12 22:56:16.180336,False,11,Tuesday
+ORD00331,CUST0059,Laptop,Electronics,6,1353.4,8120.4,US,Credit Card,22.0,,2024-12-29 22:56:16.180336,True,12,Sunday
+ORD00332,CUST0175,Camera,Electronics,2,775.29,1550.58,US,Credit Card,57.0,2.0,2025-07-02 22:56:16.180336,False,7,Wednesday
+ORD00333,CUST0040,Camera,Electronics,1,669.73,669.73,France,Bank Transfer,,4.0,2025-02-04 22:56:16.180336,False,2,Tuesday
+ORD00334,CUST0008,Camera,Electronics,7,1410.21,9871.49,Germany,Bank Transfer,57.0,4.0,2024-12-29 22:56:16.180336,True,12,Sunday
+ORD00335,CUST0163,Phone,Electronics,5,467.65,2338.26,Canada,Bank Transfer,65.0,1.0,2024-11-29 22:56:16.180336,False,11,Friday
+ORD00336,CUST0094,Watch,Electronics,5,458.95,2294.73,Germany,Debit Card,29.0,2.0,2025-07-18 22:56:16.180336,False,7,Friday
+ORD00337,CUST0138,Camera,Electronics,1,885.6,885.6,Australia,Debit Card,37.0,,2025-10-14 22:56:16.180336,False,10,Tuesday
+ORD00338,CUST0094,Watch,Electronics,3,311.95,935.86,Australia,PayPal,57.0,5.0,2025-06-08 22:56:16.180336,True,6,Sunday
+ORD00339,CUST0031,Headphones,Electronics,2,138.83,277.66,Canada,Bank Transfer,21.0,2.0,2025-01-24 22:56:16.180336,False,1,Friday
+ORD00340,CUST0060,Camera,Electronics,2,1303.8,2607.61,France,Debit Card,52.0,,2025-02-20 22:56:16.180336,False,2,Thursday
+ORD00341,CUST0115,Laptop,Electronics,4,1330.1,5320.38,Australia,Bank Transfer,30.0,2.0,2025-05-29 22:56:16.180336,False,5,Thursday
+ORD00342,CUST0191,Laptop,Electronics,5,1834.64,9173.22,Australia,Bank Transfer,,5.0,2025-03-12 22:56:16.180336,False,3,Wednesday
+ORD00343,CUST0109,Camera,Electronics,3,1338.23,4014.69,US,Credit Card,42.0,5.0,2025-08-06 22:56:16.180336,False,8,Wednesday
+ORD00344,CUST0053,Watch,Electronics,4,304.06,1216.24,France,Debit Card,30.0,4.0,2024-11-23 22:56:16.180336,True,11,Saturday
+ORD00345,CUST0138,Headphones,Electronics,4,172.69,690.77,Canada,Bank Transfer,23.0,3.0,2025-06-19 22:56:16.180336,False,6,Thursday
+ORD00346,CUST0013,Tablet,Electronics,5,502.49,2512.44,Germany,Debit Card,37.0,4.0,2025-07-29 22:56:16.180336,False,7,Tuesday
+ORD00347,CUST0023,Phone,Electronics,3,1034.08,3102.23,France,Bank Transfer,25.0,5.0,2025-07-15 22:56:16.180336,False,7,Tuesday
+ORD00348,CUST0096,Tablet,Electronics,5,442.89,2214.44,UK,Credit Card,34.0,5.0,2024-10-17 22:56:16.180336,False,10,Thursday
+ORD00349,CUST0116,Camera,Electronics,2,1327.55,2655.11,US,Bank Transfer,,3.0,2025-03-13 22:56:16.180336,False,3,Thursday
+ORD00350,CUST0044,Phone,Electronics,1,1018.84,1018.84,Canada,Debit Card,69.0,1.0,2025-04-13 22:56:16.180336,True,4,Sunday
+ORD00351,CUST0190,Phone,Electronics,3,572.4,1717.2,Canada,Debit Card,29.0,2.0,2024-12-26 22:56:16.180336,False,12,Thursday
+ORD00352,CUST0102,Tablet,Electronics,2,690.91,1381.82,Germany,Credit Card,40.0,2.0,2025-05-16 22:56:16.180336,False,5,Friday
+ORD00353,CUST0103,Tablet,Electronics,3,614.84,1844.52,Australia,Debit Card,19.0,3.0,2025-08-16 22:56:16.180336,True,8,Saturday
+ORD00354,CUST0177,Laptop,Electronics,2,1584.06,3168.12,Canada,Bank Transfer,68.0,2.0,2024-11-22 22:56:16.180336,False,11,Friday
+ORD00355,CUST0028,Phone,Electronics,3,764.5,2293.49,US,PayPal,52.0,3.0,2025-04-21 22:56:16.180336,False,4,Monday
+ORD00356,CUST0025,Phone,Electronics,5,1193.36,5966.78,UK,Debit Card,29.0,5.0,2025-03-01 22:56:16.180336,True,3,Saturday
+ORD00357,CUST0152,Phone,Electronics,1,404.02,404.02,Germany,Debit Card,57.0,3.0,2024-12-27 22:56:16.180336,False,12,Friday
+ORD00358,CUST0132,Phone,Electronics,4,1153.23,4612.91,US,PayPal,48.0,4.0,2025-04-08 22:56:16.180336,False,4,Tuesday
+ORD00359,CUST0021,Laptop,Electronics,5,1675.65,8378.27,US,PayPal,63.0,1.0,2025-08-05 22:56:16.180336,False,8,Tuesday
+ORD00360,CUST0104,Watch,Electronics,1,242.05,242.05,Canada,Bank Transfer,21.0,5.0,2025-10-14 22:56:16.180336,False,10,Tuesday
+ORD00361,CUST0181,Phone,Electronics,2,848.46,1696.93,Germany,Bank Transfer,22.0,,2025-05-06 22:56:16.180336,False,5,Tuesday
+ORD00362,CUST0030,Tablet,Electronics,2,888.34,1776.68,Canada,Bank Transfer,57.0,,2025-06-12 22:56:16.180336,False,6,Thursday
+ORD00363,CUST0186,Headphones,Electronics,2,75.82,151.63,Germany,Bank Transfer,26.0,,2025-05-23 22:56:16.180336,False,5,Friday
+ORD00364,CUST0065,Phone,Electronics,1,440.28,440.28,US,Debit Card,39.0,1.0,2024-12-30 22:56:16.180336,False,12,Monday
+ORD00365,CUST0141,Phone,Electronics,4,687.37,2749.47,US,PayPal,34.0,2.0,2024-10-23 22:56:16.180336,False,10,Wednesday
+ORD00366,CUST0163,Laptop,Electronics,3,1230.0,3690.0,Australia,PayPal,44.0,5.0,2024-12-26 22:56:16.180336,False,12,Thursday
+ORD00367,CUST0146,Watch,Electronics,3,473.5,1420.5,Australia,Credit Card,23.0,2.0,2024-10-20 22:56:16.180336,True,10,Sunday
+ORD00368,CUST0163,Laptop,Electronics,1,1657.7,1657.7,US,Debit Card,36.0,4.0,2024-11-28 22:56:16.180336,False,11,Thursday
+ORD00369,CUST0099,Tablet,Electronics,3,438.89,1316.66,Australia,Credit Card,24.0,1.0,2025-08-28 22:56:16.180336,False,8,Thursday
+ORD00370,CUST0144,Camera,Electronics,2,1175.82,2351.65,France,Bank Transfer,57.0,4.0,2025-06-11 22:56:16.180336,False,6,Wednesday
+ORD00371,CUST0194,Watch,Electronics,3,188.04,564.11,Australia,Debit Card,60.0,5.0,2025-02-28 22:56:16.180336,False,2,Friday
+ORD00372,CUST0098,Phone,Electronics,2,653.27,1306.54,Canada,PayPal,22.0,4.0,2025-06-02 22:56:16.180336,False,6,Monday
+ORD00373,CUST0146,Watch,Electronics,1,363.22,363.22,UK,Bank Transfer,61.0,2.0,2025-02-14 22:56:16.180336,False,2,Friday
+ORD00374,CUST0191,Laptop,Electronics,3,1170.16,3510.49,Australia,Credit Card,60.0,4.0,2025-09-03 22:56:16.180336,False,9,Wednesday
+ORD00375,CUST0003,Laptop,Electronics,4,1053.06,4212.25,US,Bank Transfer,28.0,2.0,2025-03-14 22:56:16.180336,False,3,Friday
+ORD00376,CUST0047,Headphones,Electronics,2,214.88,429.75,Australia,Bank Transfer,27.0,5.0,2025-06-05 22:56:16.180336,False,6,Thursday
+ORD00377,CUST0058,Camera,Electronics,1,1276.29,1276.29,France,Debit Card,42.0,2.0,2025-06-20 22:56:16.180336,False,6,Friday
+ORD00378,CUST0135,Laptop,Electronics,2,862.87,1725.74,US,Bank Transfer,28.0,5.0,2025-07-08 22:56:16.180336,False,7,Tuesday
+ORD00379,CUST0187,Camera,Electronics,3,1368.41,4105.23,UK,Bank Transfer,68.0,5.0,2025-09-11 22:56:16.180336,False,9,Thursday
+ORD00380,CUST0059,Camera,Electronics,2,1281.62,2563.23,Canada,Debit Card,30.0,2.0,2025-08-09 22:56:16.180336,True,8,Saturday
+ORD00381,CUST0120,Camera,Electronics,1,694.45,694.45,Australia,Credit Card,34.0,1.0,2025-03-05 22:56:16.180336,False,3,Wednesday
+ORD00382,CUST0071,Watch,Electronics,2,135.97,271.93,Germany,Bank Transfer,47.0,2.0,2025-04-08 22:56:16.180336,False,4,Tuesday
+ORD00383,CUST0029,Headphones,Electronics,4,239.77,959.09,Australia,Credit Card,54.0,4.0,2025-01-29 22:56:16.180336,False,1,Wednesday
+ORD00384,CUST0034,Camera,Electronics,2,846.56,1693.12,Germany,Debit Card,53.0,3.0,2025-03-10 22:56:16.180336,False,3,Monday
+ORD00385,CUST0079,Camera,Electronics,2,1476.03,2952.07,US,Bank Transfer,36.0,4.0,2025-09-09 22:56:16.180336,False,9,Tuesday
+ORD00386,CUST0068,Laptop,Electronics,1,1454.7,1454.7,Germany,Bank Transfer,28.0,2.0,2024-10-20 22:56:16.180336,True,10,Sunday
+ORD00387,CUST0095,Phone,Electronics,3,424.02,1272.05,Germany,Bank Transfer,38.0,3.0,2025-03-23 22:56:16.180336,True,3,Sunday
+ORD00388,CUST0139,Phone,Electronics,4,747.49,2989.96,Germany,Bank Transfer,48.0,1.0,2024-10-31 22:56:16.180336,False,10,Thursday
+ORD00389,CUST0199,Phone,Electronics,2,818.88,1637.76,UK,PayPal,64.0,2.0,2025-09-28 22:56:16.180336,True,9,Sunday
+ORD00390,CUST0195,Headphones,Electronics,1,75.71,75.71,UK,Debit Card,28.0,4.0,2025-08-07 22:56:16.180336,False,8,Thursday
+ORD00391,CUST0010,Laptop,Electronics,2,1932.71,3865.43,Australia,PayPal,55.0,5.0,2025-04-15 22:56:16.180336,False,4,Tuesday
+ORD00392,CUST0041,Laptop,Electronics,3,1550.4,4651.19,UK,Bank Transfer,37.0,3.0,2025-05-11 22:56:16.180336,True,5,Sunday
+ORD00393,CUST0176,Phone,Electronics,2,875.31,1750.63,Australia,Debit Card,,,2025-09-26 22:56:16.180336,False,9,Friday
+ORD00394,CUST0125,Headphones,Electronics,5,244.36,1221.82,Germany,PayPal,29.0,4.0,2025-04-27 22:56:16.180336,True,4,Sunday
+ORD00395,CUST0100,Camera,Electronics,4,589.88,2359.51,US,Bank Transfer,39.0,5.0,2024-11-20 22:56:16.180336,False,11,Wednesday
+ORD00396,CUST0198,Laptop,Electronics,3,1805.04,5415.11,Australia,Bank Transfer,22.0,3.0,2025-10-15 22:56:16.180336,False,10,Wednesday
+ORD00397,CUST0109,Laptop,Electronics,3,1598.07,4794.2,Canada,Bank Transfer,64.0,5.0,2024-11-28 22:56:16.180336,False,11,Thursday
+ORD00398,CUST0035,Tablet,Electronics,2,479.27,958.54,Germany,Credit Card,36.0,5.0,2025-10-05 22:56:16.180336,True,10,Sunday
+ORD00399,CUST0167,Watch,Electronics,3,134.02,402.07,France,Bank Transfer,18.0,3.0,2025-05-22 22:56:16.180336,False,5,Thursday
+ORD00400,CUST0112,Tablet,Electronics,5,619.12,3095.62,Canada,Credit Card,19.0,5.0,2025-02-03 22:56:16.180336,False,2,Monday
+ORD00401,CUST0019,Tablet,Electronics,2,743.1,1486.21,France,Debit Card,26.0,3.0,2025-05-15 22:56:16.180336,False,5,Thursday
+ORD00402,CUST0090,Watch,Electronics,4,412.14,1648.56,Canada,PayPal,36.0,2.0,2025-10-15 22:56:16.180336,False,10,Wednesday
+ORD00403,CUST0171,Tablet,Electronics,6,466.71,2800.24,Canada,Bank Transfer,44.0,2.0,2025-07-09 22:56:16.180336,False,7,Wednesday
+ORD00404,CUST0102,Camera,Electronics,5,752.31,3761.56,France,Bank Transfer,21.0,2.0,2025-07-05 22:56:16.180336,True,7,Saturday
+ORD00405,CUST0011,Tablet,Electronics,6,864.95,5189.68,Australia,PayPal,28.0,2.0,2025-02-08 22:56:16.180336,True,2,Saturday
+ORD00406,CUST0097,Laptop,Electronics,1,1101.05,1101.05,Australia,PayPal,43.0,5.0,2024-11-12 22:56:16.180336,False,11,Tuesday
+ORD00407,CUST0179,Camera,Electronics,2,561.1,1122.21,France,PayPal,46.0,1.0,2025-06-10 22:56:16.180336,False,6,Tuesday
+ORD00408,CUST0169,Tablet,Electronics,3,695.81,2087.44,UK,PayPal,24.0,2.0,2025-01-10 22:56:16.180336,False,1,Friday
+ORD00409,CUST0132,Laptop,Electronics,3,1522.17,4566.5,Canada,PayPal,51.0,,2024-10-16 22:56:16.180336,False,10,Wednesday
+ORD00410,CUST0036,Phone,Electronics,1,571.93,571.93,UK,Bank Transfer,52.0,3.0,2025-04-11 22:56:16.180336,False,4,Friday
+ORD00411,CUST0187,Tablet,Electronics,2,707.04,1414.07,Australia,Credit Card,33.0,3.0,2025-03-20 22:56:16.180336,False,3,Thursday
+ORD00412,CUST0036,Laptop,Electronics,3,1428.4,4285.19,UK,PayPal,28.0,4.0,2024-11-14 22:56:16.180336,False,11,Thursday
+ORD00413,CUST0146,Watch,Electronics,4,178.08,712.32,France,Credit Card,41.0,5.0,2024-12-24 22:56:16.180336,False,12,Tuesday
+ORD00414,CUST0015,Camera,Electronics,4,1172.25,4689.0,UK,Bank Transfer,46.0,5.0,2025-06-18 22:56:16.180336,False,6,Wednesday
+ORD00415,CUST0161,Watch,Electronics,1,146.58,146.58,Australia,Debit Card,61.0,2.0,2025-02-27 22:56:16.180336,False,2,Thursday
+ORD00416,CUST0025,Phone,Electronics,2,752.92,1505.84,US,Credit Card,39.0,2.0,2025-01-21 22:56:16.180336,False,1,Tuesday
+ORD00417,CUST0197,Tablet,Electronics,3,874.77,2624.3,UK,Credit Card,62.0,5.0,2025-02-11 22:56:16.180336,False,2,Tuesday
+ORD00418,CUST0035,Tablet,Electronics,2,436.06,872.13,France,Bank Transfer,36.0,5.0,2025-02-15 22:56:16.180336,True,2,Saturday
+ORD00419,CUST0195,Camera,Electronics,4,1011.71,4046.83,US,Bank Transfer,62.0,5.0,2025-04-12 22:56:16.180336,True,4,Saturday
+ORD00420,CUST0172,Camera,Electronics,1,1459.79,1459.79,US,PayPal,51.0,1.0,2024-10-30 22:56:16.180336,False,10,Wednesday
+ORD00421,CUST0171,Tablet,Electronics,6,653.53,3921.17,US,PayPal,40.0,5.0,2025-09-14 22:56:16.180336,True,9,Sunday
+ORD00422,CUST0068,Camera,Electronics,2,882.14,1764.28,France,Credit Card,68.0,1.0,2025-08-30 22:56:16.180336,True,8,Saturday
+ORD00423,CUST0066,Phone,Electronics,4,433.14,1732.57,UK,Debit Card,37.0,2.0,2025-07-11 22:56:16.180336,False,7,Friday
+ORD00424,CUST0026,Watch,Electronics,2,290.04,580.07,France,PayPal,28.0,5.0,2025-02-06 22:56:16.180336,False,2,Thursday
+ORD00425,CUST0033,Camera,Electronics,5,1230.24,6151.22,Canada,Bank Transfer,45.0,3.0,2025-07-17 22:56:16.180336,False,7,Thursday
+ORD00426,CUST0054,Tablet,Electronics,4,340.78,1363.14,France,Bank Transfer,30.0,4.0,2025-04-01 22:56:16.180336,False,4,Tuesday
+ORD00427,CUST0153,Headphones,Electronics,2,218.86,437.73,US,Credit Card,39.0,5.0,2025-06-08 22:56:16.180336,True,6,Sunday
+ORD00428,CUST0045,Camera,Electronics,4,855.44,3421.76,Australia,PayPal,50.0,3.0,2025-03-10 22:56:16.180336,False,3,Monday
+ORD00429,CUST0057,Tablet,Electronics,2,796.5,1593.0,Germany,PayPal,44.0,5.0,2025-09-20 22:56:16.180336,True,9,Saturday
+ORD00430,CUST0194,Watch,Electronics,1,295.27,295.27,US,PayPal,45.0,1.0,2025-01-24 22:56:16.180336,False,1,Friday
+ORD00431,CUST0099,Phone,Electronics,3,732.41,2197.23,US,Bank Transfer,57.0,5.0,2024-12-29 22:56:16.180336,True,12,Sunday
+ORD00432,CUST0126,Tablet,Electronics,3,675.41,2026.23,Canada,PayPal,42.0,,2025-04-23 22:56:16.180336,False,4,Wednesday
+ORD00433,CUST0104,Laptop,Electronics,4,1179.29,4717.17,UK,PayPal,36.0,4.0,2025-09-09 22:56:16.180336,False,9,Tuesday
+ORD00434,CUST0018,Laptop,Electronics,4,1466.16,5864.64,Australia,Bank Transfer,27.0,4.0,2024-11-23 22:56:16.180336,True,11,Saturday
+ORD00435,CUST0052,Headphones,Electronics,4,140.09,560.38,Germany,Debit Card,33.0,1.0,2025-03-18 22:56:16.180336,False,3,Tuesday
+ORD00436,CUST0117,Watch,Electronics,6,325.84,1955.02,Canada,Debit Card,63.0,,2024-10-23 22:56:16.180336,False,10,Wednesday
+ORD00437,CUST0023,Watch,Electronics,4,155.25,621.0,Germany,Debit Card,19.0,4.0,2024-12-27 22:56:16.180336,False,12,Friday
+ORD00438,CUST0186,Watch,Electronics,6,221.35,1328.13,Canada,PayPal,56.0,3.0,2025-02-22 22:56:16.180336,True,2,Saturday
+ORD00439,CUST0183,Tablet,Electronics,3,687.13,2061.39,Canada,Debit Card,41.0,1.0,2025-08-29 22:56:16.180336,False,8,Friday
+ORD00440,CUST0080,Camera,Electronics,3,682.81,2048.44,Australia,Debit Card,57.0,2.0,2025-03-08 22:56:16.180336,True,3,Saturday
+ORD00441,CUST0174,Phone,Electronics,6,836.74,5020.43,Canada,PayPal,42.0,,2025-02-26 22:56:16.180336,False,2,Wednesday
+ORD00442,CUST0054,Tablet,Electronics,1,483.63,483.63,France,Debit Card,31.0,5.0,2024-12-29 22:56:16.180336,True,12,Sunday
+ORD00443,CUST0104,Tablet,Electronics,3,867.45,2602.35,Canada,Credit Card,21.0,3.0,2025-03-21 22:56:16.180336,False,3,Friday
+ORD00444,CUST0178,Tablet,Electronics,1,430.63,430.63,Australia,Credit Card,28.0,1.0,2025-01-10 22:56:16.180336,False,1,Friday
+ORD00445,CUST0024,Laptop,Electronics,6,1169.45,7016.69,Australia,Debit Card,48.0,4.0,2025-07-12 22:56:16.180336,True,7,Saturday
+ORD00446,CUST0190,Phone,Electronics,2,726.22,1452.44,Germany,Credit Card,67.0,3.0,2024-12-24 22:56:16.180336,False,12,Tuesday
+ORD00447,CUST0078,Phone,Electronics,2,1020.4,2040.81,US,Credit Card,30.0,4.0,2025-05-25 22:56:16.180336,True,5,Sunday
+ORD00448,CUST0091,Phone,Electronics,2,533.97,1067.94,France,PayPal,55.0,,2025-04-25 22:56:16.180336,False,4,Friday
+ORD00449,CUST0171,Laptop,Electronics,4,1341.52,5366.08,US,Bank Transfer,33.0,1.0,2024-11-06 22:56:16.180336,False,11,Wednesday
+ORD00450,CUST0197,Phone,Electronics,5,436.85,2184.25,UK,Credit Card,33.0,5.0,2024-12-23 22:56:16.180336,False,12,Monday
+ORD00451,CUST0001,Phone,Electronics,4,400.18,1600.73,Australia,Bank Transfer,35.0,1.0,2025-06-23 22:56:16.180336,False,6,Monday
+ORD00452,CUST0106,Watch,Electronics,4,239.53,958.13,US,Credit Card,33.0,2.0,2025-05-31 22:56:16.180336,True,5,Saturday
+ORD00453,CUST0106,Phone,Electronics,7,761.76,5332.33,France,PayPal,20.0,2.0,2025-10-04 22:56:16.180336,True,10,Saturday
+ORD00454,CUST0184,Phone,Electronics,3,830.72,2492.15,Canada,PayPal,64.0,3.0,2025-09-14 22:56:16.180336,True,9,Sunday
+ORD00455,CUST0063,Headphones,Electronics,1,256.88,256.88,US,Debit Card,66.0,3.0,2024-12-19 22:56:16.180336,False,12,Thursday
+ORD00456,CUST0122,Headphones,Electronics,5,154.35,771.74,US,PayPal,47.0,,2025-01-21 22:56:16.180336,False,1,Tuesday
+ORD00457,CUST0198,Camera,Electronics,5,1174.02,5870.09,Germany,Credit Card,18.0,5.0,2025-08-02 22:56:16.180336,True,8,Saturday
+ORD00458,CUST0100,Tablet,Electronics,2,585.92,1171.83,UK,Bank Transfer,43.0,1.0,2024-12-15 22:56:16.180336,True,12,Sunday
+ORD00459,CUST0140,Tablet,Electronics,8,308.63,2469.03,France,PayPal,27.0,1.0,2025-01-19 22:56:16.180336,True,1,Sunday
+ORD00460,CUST0135,Laptop,Electronics,2,1574.64,3149.28,Australia,Debit Card,23.0,2.0,2025-05-01 22:56:16.180336,False,5,Thursday
+ORD00461,CUST0154,Phone,Electronics,3,987.77,2963.3,Canada,Debit Card,50.0,5.0,2024-12-23 22:56:16.180336,False,12,Monday
+ORD00462,CUST0001,Tablet,Electronics,3,415.21,1245.63,Germany,PayPal,48.0,1.0,2024-10-18 22:56:16.180336,False,10,Friday
+ORD00463,CUST0097,Headphones,Electronics,2,208.91,417.82,UK,Debit Card,38.0,1.0,2025-05-29 22:56:16.180336,False,5,Thursday
+ORD00464,CUST0199,Phone,Electronics,6,851.52,5109.1,Germany,Debit Card,19.0,2.0,2025-04-20 22:56:16.180336,True,4,Sunday
+ORD00465,CUST0166,Laptop,Electronics,1,1620.64,1620.64,US,Credit Card,54.0,5.0,2025-05-06 22:56:16.180336,False,5,Tuesday
+ORD00466,CUST0068,Camera,Electronics,1,797.98,797.98,US,Credit Card,49.0,1.0,2025-06-01 22:56:16.180336,True,6,Sunday
+ORD00467,CUST0042,Watch,Electronics,3,328.16,984.49,Australia,Credit Card,27.0,2.0,2025-04-16 22:56:16.180336,False,4,Wednesday
+ORD00468,CUST0079,Watch,Electronics,3,231.14,693.41,Canada,Debit Card,64.0,1.0,2025-09-18 22:56:16.180336,False,9,Thursday
+ORD00469,CUST0042,Headphones,Electronics,4,106.74,426.98,Canada,Credit Card,49.0,2.0,2025-01-15 22:56:16.180336,False,1,Wednesday
+ORD00470,CUST0118,Headphones,Electronics,3,240.54,721.63,France,PayPal,25.0,5.0,2024-12-09 22:56:16.180336,False,12,Monday
+ORD00471,CUST0092,Headphones,Electronics,3,251.27,753.82,France,Bank Transfer,33.0,5.0,2025-07-08 22:56:16.180336,False,7,Tuesday
+ORD00472,CUST0180,Headphones,Electronics,3,96.6,289.81,Australia,Credit Card,62.0,3.0,2025-05-02 22:56:16.180336,False,5,Friday
+ORD00473,CUST0156,Phone,Electronics,4,1165.71,4662.83,Australia,Bank Transfer,51.0,5.0,2025-07-11 22:56:16.180336,False,7,Friday
+ORD00474,CUST0046,Phone,Electronics,2,417.67,835.34,Canada,Debit Card,19.0,3.0,2025-09-17 22:56:16.180336,False,9,Wednesday
+ORD00475,CUST0022,Headphones,Electronics,3,225.22,675.65,UK,Bank Transfer,23.0,4.0,2024-11-28 22:56:16.180336,False,11,Thursday
+ORD00476,CUST0101,Headphones,Electronics,3,253.94,761.81,Canada,Credit Card,37.0,3.0,2024-12-02 22:56:16.180336,False,12,Monday
+ORD00477,CUST0149,Tablet,Electronics,4,464.47,1857.89,US,Debit Card,43.0,,2025-01-16 22:56:16.180336,False,1,Thursday
+ORD00478,CUST0195,Camera,Electronics,6,1357.93,8147.61,France,Debit Card,27.0,1.0,2025-06-10 22:56:16.180336,False,6,Tuesday
+ORD00479,CUST0197,Tablet,Electronics,1,589.36,589.36,Canada,PayPal,39.0,2.0,2025-10-04 22:56:16.180336,True,10,Saturday
+ORD00480,CUST0139,Headphones,Electronics,2,240.55,481.11,Australia,Credit Card,29.0,2.0,2025-08-18 22:56:16.180336,False,8,Monday
+ORD00481,CUST0050,Headphones,Electronics,3,99.39,298.17,France,Debit Card,67.0,5.0,2025-06-25 22:56:16.180336,False,6,Wednesday
+ORD00482,CUST0134,Headphones,Electronics,3,280.66,841.98,US,Debit Card,39.0,2.0,2025-06-18 22:56:16.180336,False,6,Wednesday
+ORD00483,CUST0018,Phone,Electronics,3,450.49,1351.46,Australia,Credit Card,56.0,3.0,2024-12-24 22:56:16.180336,False,12,Tuesday
+ORD00484,CUST0026,Headphones,Electronics,2,259.37,518.74,US,Debit Card,59.0,,2025-02-02 22:56:16.180336,True,2,Sunday
+ORD00485,CUST0084,Phone,Electronics,3,721.85,2165.54,Canada,Debit Card,19.0,1.0,2025-06-04 22:56:16.180336,False,6,Wednesday
+ORD00486,CUST0186,Phone,Electronics,4,676.96,2707.83,UK,Bank Transfer,69.0,2.0,2025-08-20 22:56:16.180336,False,8,Wednesday
+ORD00487,CUST0140,Laptop,Electronics,3,1520.95,4562.85,UK,Credit Card,40.0,1.0,2025-06-01 22:56:16.180336,True,6,Sunday
+ORD00488,CUST0076,Laptop,Electronics,4,1382.76,5531.04,UK,Debit Card,57.0,2.0,2025-07-27 22:56:16.180336,True,7,Sunday
+ORD00489,CUST0073,Headphones,Electronics,3,290.92,872.76,Germany,Credit Card,29.0,4.0,2025-07-24 22:56:16.180336,False,7,Thursday
+ORD00490,CUST0143,Watch,Electronics,3,176.78,530.35,Australia,Credit Card,24.0,3.0,2025-03-07 22:56:16.180336,False,3,Friday
+ORD00491,CUST0168,Camera,Electronics,3,974.16,2922.47,Germany,Debit Card,62.0,3.0,2025-05-24 22:56:16.180336,True,5,Saturday
+ORD00492,CUST0009,Tablet,Electronics,4,422.12,1688.48,Australia,Credit Card,54.0,1.0,2025-08-11 22:56:16.180336,False,8,Monday
+ORD00493,CUST0078,Camera,Electronics,2,1134.56,2269.11,Canada,PayPal,59.0,2.0,2025-05-29 22:56:16.180336,False,5,Thursday
+ORD00494,CUST0010,Camera,Electronics,5,775.57,3877.83,Australia,PayPal,22.0,3.0,2025-03-07 22:56:16.180336,False,3,Friday
+ORD00495,CUST0195,Headphones,Electronics,1,279.63,279.63,US,Credit Card,29.0,5.0,2025-08-03 22:56:16.180336,True,8,Sunday
+ORD00496,CUST0178,Watch,Electronics,3,172.26,516.79,Australia,PayPal,46.0,5.0,2025-01-28 22:56:16.180336,False,1,Tuesday
+ORD00497,CUST0174,Headphones,Electronics,2,107.6,215.19,UK,PayPal,65.0,3.0,2025-10-02 22:56:16.180336,False,10,Thursday
+ORD00498,CUST0043,Phone,Electronics,4,878.25,3512.99,UK,Debit Card,66.0,3.0,2025-05-02 22:56:16.180336,False,5,Friday
+ORD00499,CUST0124,Laptop,Electronics,5,1660.71,8303.57,US,Bank Transfer,39.0,2.0,2025-04-28 22:56:16.180336,False,4,Monday
