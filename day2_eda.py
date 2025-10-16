@@ -232,8 +232,8 @@ def step3_univariate_analysis(df):
     axes[1, 1].set_title('Sales by Country')
 
     plt.tight_layout()
-    plt.savefig('univariate_analysis.png', dpi=300, bbox_inches='tight')
-    print(" Saved: univariate_analysis.png")
+    plt.savefig('images/univariate_analysis.png', dpi=300, bbox_inches='tight')
+    print(" Saved: images/univariate_analysis.png")
     plt.close()
 
 
@@ -323,8 +323,8 @@ def step4_bivariate_analysis(df):
     plt.xticks(rotation=45)
 
     plt.tight_layout()
-    plt.savefig('bivariate_analysis.png', dpi=300, bbox_inches='tight')
-    print(" Saved: bivariate_analysis.png")
+    plt.savefig('images/bivariate_analysis.png', dpi=300, bbox_inches='tight')
+    print(" Saved: images/bivariate_analysis.png")
     plt.close()
 
 
@@ -409,8 +409,8 @@ def step5_multivariate_analysis(df):
     plt.xticks(rotation=45)
 
     plt.tight_layout()
-    plt.savefig('multivariate_analysis.png', dpi=300, bbox_inches='tight')
-    print(" Saved: multivariate_analysis.png")
+    plt.savefig('images/multivariate_analysis.png', dpi=300, bbox_inches='tight')
+    print(" Saved: images/multivariate_analysis.png")
     plt.close()
 
 
@@ -505,9 +505,9 @@ if __name__ == "__main__":
     print("=" * 80)
     print("\nOutput Files Generated:")
     print("  • eda_sample_data.csv - Sample dataset")
-    print("  • univariate_analysis.png - Single variable visualizations")
-    print("  • bivariate_analysis.png - Two variable relationships")
-    print("  • multivariate_analysis.png - Multiple variable patterns")
+    print("  • images/univariate_analysis.png - Single variable visualizations")
+    print("  • images/bivariate_analysis.png - Two variable relationships")
+    print("  • images/multivariate_analysis.png - Multiple variable patterns")
 
     print("\nKey Takeaways:")
     print("  • Always start with data understanding and quality checks")

@@ -360,9 +360,9 @@ python day2_eda.py
 
 **Generated Files:**
 - `eda_sample_data.csv` - Sample dataset
-- `univariate_analysis.png` - Single variable plots
-- `bivariate_analysis.png` - Relationship plots
-- `multivariate_analysis.png` - Complex pattern plots
+- `images/univariate_analysis.png` - Single variable plots
+- `images/bivariate_analysis.png` - Relationship plots
+- `images/multivariate_analysis.png` - Complex pattern plots
 
 ## Best Practices
 
@@ -513,25 +513,6 @@ Our demo analyzes a sample e-commerce dataset with:
 5. **Document**: Keep track of findings for future reference
 6. **Think Business**: Connect data patterns to business impact
 
-## Learning Path
-
-### Beginner
-1. Master basic pandas operations
-2. Learn univariate analysis
-3. Practice with small datasets
-4. Create simple visualizations
-
-### Intermediate
-5. Study bivariate analysis
-6. Learn correlation techniques
-7. Work with real-world datasets
-8. Build custom visualizations
-
-### Advanced
-9. Master multivariate analysis
-10. Learn dimensionality reduction (PCA, t-SNE)
-11. Study time series EDA
-12. Create automated EDA pipelines
 
 ## Further Learning
 
@@ -557,4 +538,3 @@ Our demo analyzes a sample e-commerce dataset with:
 4. Build an EDA portfolio
 5. Learn feature engineering
 6. Progress to machine learning
-
