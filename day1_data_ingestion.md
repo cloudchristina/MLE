@@ -276,12 +276,6 @@ flowchart LR
 | **Streaming** | Seconds | High | High | Fraud detection, live dashboards |
 | **ETL** | Varies | Medium | Medium | Data warehousing, quality-critical data |
 
-## Learning Path
-
-1. **Start with Batch** - Understand the basic ETL concepts
-2. **Add Quality Checks** - Learn data validation and cleaning
-3. **Explore Streaming** - See how real-time differs from batch
-4. **Combine Patterns** - Use both for Lambda architecture
 
 ## Real-World Examples
 
