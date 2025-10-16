@@ -59,7 +59,7 @@ graph TB
 
     Supervised --> Needs[Needs Labeled Data]
     Needs --> Input[Input: Image]
-    Needs --> Output[Output: "Cat"]
+    Needs --> Output[Output: Cat]
     Input --> Learn[Model learns<br/>mapping]
     Output --> Learn
 
@@ -182,9 +182,9 @@ flowchart TD
 ```
 Text: "Apple released the iPhone 15 in Cupertino."
 Labels:
-  - "Apple" ’ Organization
-  - "iPhone 15" ’ Product
-  - "Cupertino" ’ Location
+  - "Apple" ï¿½ Organization
+  - "iPhone 15" ï¿½ Product
+  - "Cupertino" ï¿½ Location
 ```
 
 ### 3. Audio Labeling
@@ -691,7 +691,7 @@ mindmap
 3. **Hybrid approach recommended** - Combine automation with human expertise
 4. **Clear guidelines crucial** - Reduces errors and inconsistency
 5. **Continuous QC required** - Monitor and improve constantly
-6. **Start small, scale gradually** - Pilot ’ iterate ’ scale
+6. **Start small, scale gradually** - Pilot ï¿½ iterate ï¿½ scale
 7. **Choose right tools** - Invest in proper labeling platforms
 
 ## Further Learning
