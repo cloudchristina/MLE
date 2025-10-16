@@ -670,13 +670,5 @@ python day3_data_wrangling.py
 - **UCI ML Repository**: Classic datasets with quality issues
 - **Your own data**: Practice with real problems
 
-### Next Steps
-
-1. Practice with the provided demo code
-2. Work through the exercises
-3. Apply to your own datasets
-4. Build a data wrangling toolkit
-5. Learn data validation frameworks
-6. Progress to ETL and data pipelines
 
 ---
