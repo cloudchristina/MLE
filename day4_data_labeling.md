@@ -120,7 +120,7 @@ graph TB
     Types --> Segmentation[Semantic Segmentation<br/>Pixel-level masks]
     Types --> Keypoint[Keypoint Annotation<br/>Specific points]
 
-    Classification --> Ex1["Dog" or "Cat"]
+    Classification --> Ex1[Dog or Cat]
     Detection --> Ex2[Box around person]
     Segmentation --> Ex3[Outline every pixel]
     Keypoint --> Ex4[Face landmarks]
